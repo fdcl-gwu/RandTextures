@@ -1,8 +1,4 @@
 import os
-import time
-import cv2
-import numpy as np
-from PIL import Image
 import matplotlib.pyplot as plt
 from randimage import get_random_image
 from configparser import ConfigParser, ExtendedInterpolation
